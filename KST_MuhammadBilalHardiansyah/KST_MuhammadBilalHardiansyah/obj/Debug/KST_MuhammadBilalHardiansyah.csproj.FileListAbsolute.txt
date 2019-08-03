@@ -1,0 +1,5 @@
+D:\Data Bilal\Testing Prog\KST_MuhammadBilalHardiansyah\KST_MuhammadBilalHardiansyah\bin\Debug\KST_MuhammadBilalHardiansyah.exe.config
+D:\Data Bilal\Testing Prog\KST_MuhammadBilalHardiansyah\KST_MuhammadBilalHardiansyah\bin\Debug\KST_MuhammadBilalHardiansyah.exe
+D:\Data Bilal\Testing Prog\KST_MuhammadBilalHardiansyah\KST_MuhammadBilalHardiansyah\bin\Debug\KST_MuhammadBilalHardiansyah.pdb
+D:\Data Bilal\Testing Prog\KST_MuhammadBilalHardiansyah\KST_MuhammadBilalHardiansyah\obj\Debug\KST_MuhammadBilalHardiansyah.exe
+D:\Data Bilal\Testing Prog\KST_MuhammadBilalHardiansyah\KST_MuhammadBilalHardiansyah\obj\Debug\KST_MuhammadBilalHardiansyah.pdb
